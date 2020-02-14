@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iesiveighu.roninkoi.net/sitemap.xml
